@@ -1,1 +1,1 @@
-# gittix-common
+# GitTix-common
