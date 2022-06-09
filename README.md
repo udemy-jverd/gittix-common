@@ -1,1 +1,1 @@
-# GitTix-common
+# GitTix commons library
